@@ -1,4 +1,4 @@
-To have the "game" to run you have to 
+To get the "game" to run you have to 
 
 1. Uprade the app: apt update && apt upgrade
 2. Install the pip installer: pkg install pip
